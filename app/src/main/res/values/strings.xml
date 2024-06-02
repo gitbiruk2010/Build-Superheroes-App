@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Meet The Superheroes</string>
+
+    <string name="hero1">Bobo the Green</string>
+    <string name="description1">Turns the dry to green</string>
+    <string name="story1">Bobo the Green was born in a small village surrounded by deserts. His magical touch can transform arid lands into lush green fields. Villagers revere him for his life-giving powers and he travels the world turning barren lands into verdant paradises.</string>
+
+    <string name="hero2">Winno The Wind</string>
+    <string name="description2">Runs like a wind</string>
+    <string name="story2">Winno The Wind, swift as the breeze, once lived a quiet life in the mountains. Discovering his ability to run at incredible speeds, he now uses his gift to deliver supplies to remote areas and rescue people from imminent danger, always leaving behind a trail of hope.</string>
+
+    <string name="hero3">Grandma The Wise</string>
+    <string name="description3">Backbone of the young minds</string>
+    <string name="story3">Grandma The Wise, with her vast knowledge and gentle demeanor, has been a guiding light for many. Her wisdom has shaped the lives of countless young minds, helping them navigate the complexities of life with courage and clarity. She continues to inspire all who meet her.</string>
+
+    <string name="hero4">Rusha The Muscle</string>
+    <string name="description4">There is nothing heavy for him</string>
+    <string name="story4">Rusha The Muscle, known for his unparalleled strength, grew up in a town where physical prowess was revered. His immense power is matched only by his heart, as he uses his abilities to help rebuild communities and lift heavy burdens off the shoulders of those in need.</string>
+
+    <string name="hero5">Sisu The Gladiator</string>
+    <string name="description5">She fights like a champ</string>
+    <string name="story5">Sisu The Gladiator, a warrior at heart, has faced countless battles and emerged victorious each time. Her skills in combat are legendary, and she fights not just for glory but to protect the innocent and uphold justice. Her determination and bravery are an inspiration to many.</string>
+
+    <string name="hero6">The Happy Porotutu</string>
+    <string name="description6">Makes you smile hard</string>
+    <string name="story6">The Happy Porotutu has the extraordinary ability to bring joy to everyone he meets. His infectious laughter and cheerful demeanor can brighten even the darkest of days. Porotutu travels far and wide, spreading happiness and reminding people of the simple pleasures in life.</string>
+
+    <string name="hero7">Madoo the Public Speaker</string>
+    <string name="description7">Has the ability to convince</string>
+    <string name="story7">Madoo the Public Speaker discovered his gift at a young age when he could effortlessly persuade his classmates and teachers. His voice, powerful and soothing, has the power to bring people together and resolve conflicts. Madoo now travels the world, giving speeches that inspire and unite communities.</string>
+
+    <string name="hero8">Kira The Joker</string>
+    <string name="description8">Cracks a joke out of the thin air</string>
+    <string name="story8">Kira The Joker always knew that laughter was the best medicine. With a sharp wit and an endless supply of jokes, Kira can turn any situation into a comedic masterpiece. Her humor has the power to lift spirits and bring joy to even the darkest of days, making her a beloved figure wherever she goes.</string>
+
+    <string name="hero9">Zuzu The Bee</string>
+    <string name="description9">Protects the bee habitat</string>
+    <string name="story9">Zuzu The Bee, a guardian of the environment, was raised among bees and developed a unique bond with them. She understands the crucial role bees play in our ecosystem and has dedicated her life to protecting their habitats. Zuzu\'s efforts have led to the flourishing of bee populations and the preservation of nature\'s balance.</string>
+
+    <string name="hero10">Kuchombo The Law Enforcement</string>
+    <string name="description10">Honest cop in the city</string>
+    <string name="story10">Kuchombo The Law Enforcement is known for his unwavering integrity and dedication to justice. Growing up in a city plagued by corruption, Kuchombo vowed to make a difference. As an honest cop, he fights tirelessly to uphold the law and protect the innocent, earning the respect and trust of his community.</string>
+</resources>
